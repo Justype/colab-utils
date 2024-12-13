@@ -5,6 +5,7 @@
 | Task                    | ipy Notebook | Description |
 | :---------------------- | :----------- | :---------- |
 | `fastq.ora` decompression | <a target="_blank" href="https://colab.research.google.com/github/Justype/colab-utils/blob/main/sequencing/ORAD.ipynb">  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | convert `fastq.ora` to `fastq.gz` using Illumina GRAGEN |
+| Get file info from [GDC](https://portal.gdc.cancer.gov/) |  <a target="_blank" href="https://colab.research.google.com/github/Justype/colab-utils/blob/main/download/GDC-files.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | Use filter to get **file IDs** and their **demographic** and **diagnostic** info |
 
 ## Colab is an Ubuntu Container
 
@@ -22,4 +23,7 @@
 
 ## Bookmarks
 
-- https://openincolab.com/
+| Website                  | Usage              |
+| :----------------------- | :----------------- |
+| https://openincolab.com/ | Make Colab Badge   |
+| https://tinypng.com/     | Shrink PNG and JPG |
