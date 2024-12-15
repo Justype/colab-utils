@@ -2,10 +2,15 @@
 
 `ipynbs` in [Google Colab](https://colab.research.google.com/) for simple bioinfo tasks:
 
-| Task                    | ipy Notebook | Description |
+| File Manipulation Task  | ipy Notebook | Description |
 | :---------------------- | :----------- | :---------- |
 | `fastq.ora` decompression | <a target="_blank" href="https://colab.research.google.com/github/Justype/colab-utils/blob/main/sequencing/ORAD.ipynb">  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | convert `fastq.ora` to `fastq.gz` using Illumina GRAGEN |
-| Get file info from [GDC](https://portal.gdc.cancer.gov/) |  <a target="_blank" href="https://colab.research.google.com/github/Justype/colab-utils/blob/main/download/GDC-files.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | Use filter to get **file IDs** and their **demographic** and **diagnostic** info |
+
+　
+
+| Data Retrieving Task     | ipy Notebook | Description |
+| :---------------------- | :----------- | :---------- |
+| Get file meta info from [GDC](https://portal.gdc.cancer.gov/) |  <a target="_blank" href="https://colab.research.google.com/github/Justype/colab-utils/blob/main/download/GDC-files.ipynb"> <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/> </a> | Use filters to get **file IDs** and their **demographic** and **diagnostic** info, then sampling |
 
 ## Colab is an Ubuntu Container
 
